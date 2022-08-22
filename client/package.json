@@ -1,5 +1,6 @@
 {
-  "name": "assignment",
+  "proxy" : "http://localhost:5000",
+  "name": "productivity_tracker",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
