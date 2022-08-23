@@ -1,6 +1,10 @@
 # Productivity Tracker
 
-## Technologies Used: MongoDB, ExpressJS, NodeJS, ReactJS
+## Technologies Used: 
+- MongoDB
+- ExpressJS
+- NodeJS
+- ReactJS
 
 ## Features:
 - View all activities
