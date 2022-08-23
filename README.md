@@ -6,7 +6,3 @@
 - View all activities
 - Add an activity
 
-## Features to add:
-- Delete an activity
-- Update an activity
-- User Authentication
